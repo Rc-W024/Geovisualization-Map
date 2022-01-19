@@ -13,15 +13,15 @@ The project provides maps of China (Gaode Map, 高德地图) and the United Stat
 In order to load the map correctly, "leaflet.ChineseTmsProviders.js" was programmed.
 
 ## ICONS
-![image](https://user-images.githubusercontent.com/97808991/150119673-b69f0f96-fc7d-4b4e-be1a-19b886ae4667.png)
+![image](https://user-images.githubusercontent.com/97808991/150132467-dd3b66e8-1d01-40e5-b0f8-cbca5957fbb2.png)
 
 Get the user's coordinates in real time
 
-![image](https://user-images.githubusercontent.com/97808991/150119904-9988216b-e09e-4006-91bd-6f74291ec4af.png)
+![image](https://user-images.githubusercontent.com/97808991/150132520-e3af2646-9a5b-4298-b9b6-ae97e4bb090c.png)
 
 Control the display of the informational text box
 
-![image](https://user-images.githubusercontent.com/97808991/150120007-bc2a557d-bd81-4351-bf43-467a559ffacf.png)
+![image](https://user-images.githubusercontent.com/97808991/150132569-bdaec5ce-b718-44bc-8c9e-f86879323547.png)
 
 Update information on electric recharging points in Valencia
 
@@ -29,6 +29,6 @@ Update information on electric recharging points in Valencia
 
 Locate China on the map
 
-![image](https://user-images.githubusercontent.com/97808991/150120355-067b9dc3-b72b-4ecd-a453-aa916ea00083.png)
+![image](https://user-images.githubusercontent.com/97808991/150132620-fe2ccbe9-0686-48e8-a2f5-fe091cc40154.png)
 
 Measure function, the tool is allowed on the map
