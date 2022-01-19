@@ -1,4 +1,4 @@
-# APP Location of recharging points - Aparcamientos de vehículos eléctricos en Valencia
+# APP Location of recharging points - Aparcamientos de vehículos eléctricos en València
 
 ## Introduction
 This is a simple script suitable for mobile applications. It allows users to query the server for open-source data released by the Valencia City Hall in Spain to locate the point where electric vehicles are charged in the corresponding area of the public parking lot.
