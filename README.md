@@ -20,29 +20,24 @@ In order to load the map correctly, `leaflet.ChineseTmsProviders.js` was program
 ![image](https://user-images.githubusercontent.com/97808991/150132467-dd3b66e8-1d01-40e5-b0f8-cbca5957fbb2.png)
 
 Get the user's coordinates in real time
-
-实时获取用户坐标
+<br />实时获取用户坐标
 
 ![image](https://user-images.githubusercontent.com/97808991/150132520-e3af2646-9a5b-4298-b9b6-ae97e4bb090c.png)
 
 Control the display of the informational text box
-
-控制信息框的显示与隐藏
+<br />控制信息框的显示与隐藏
 
 ![image](https://user-images.githubusercontent.com/97808991/150132569-bdaec5ce-b718-44bc-8c9e-f86879323547.png)
 
 Update information on electric recharging points in València
-
-更新有关瓦伦西亚市充电站的信息
+<br />更新有关瓦伦西亚市充电站的信息
 
 ![image](https://user-images.githubusercontent.com/97808991/150120242-7a8aa441-40a1-4da4-a9b8-1d37c41d901a.png)
 
 Locate China on the map
-
-在地图中定位到中国
+<br />在地图中定位到中国
 
 ![image](https://user-images.githubusercontent.com/97808991/150132620-fe2ccbe9-0686-48e8-a2f5-fe091cc40154.png)
 
 Measure function, the tool is allowed on the map
-
-地图测距工具
+<br />地图测距工具
