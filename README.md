@@ -15,7 +15,7 @@ The project provides maps of China (Gaode Map) and the United States (Google Map
 
 In order to load the map correctly, [`leaflet.ChineseTmsProviders.js`](https://github.com/Rc-W024/Geovisualization-Map/blob/main/js/leaflet.ChineseTmsProviders.js) was programmed.
 
-该项目通过Leaflet（[`proyecto.js`](https://github.com/Rc-W024/Geovisualization-Map/blob/main/js/proyecto.js)）提供中国（高德地图）和美国（谷歌地图）地图作为基础数据，可以在文件中找到这些内容。
+该项目通过Leaflet（[`leaflet.js`](https://github.com/Rc-W024/Geovisualization-Map/blob/main/js/leaflet.js), [`proyecto.js`](https://github.com/Rc-W024/Geovisualization-Map/blob/main/js/proyecto.js)...）提供中国（高德地图）和美国（谷歌地图）地图作为基础数据，可以在文件中找到这些内容。
 
 ## ICONS
 ![image](https://user-images.githubusercontent.com/97808991/150132467-dd3b66e8-1d01-40e5-b0f8-cbca5957fbb2.png)
