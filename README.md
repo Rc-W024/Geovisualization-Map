@@ -11,11 +11,11 @@ Additionally, it allows us to display the coordinates of the current location an
 ![image](https://user-images.githubusercontent.com/97808991/150118734-96433718-10f0-4946-a20c-80278c6efc40.png)
 
 ## Maps
-The project provides maps of China (Gaode Map) and the United States (Google Map), as basic data through Leaflet, `project.js`. You can find these files here.
+The project provides maps of China (Gaode Map) and the United States (Google Map), as basic data through Leaflet, [`proyecto.js`](https://github.com/Rc-W024/Geovisualization-Map/blob/main/js/proyecto.js). You can find these files here.
 
-In order to load the map correctly, `leaflet.ChineseTmsProviders.js` was programmed.
+In order to load the map correctly, [`leaflet.ChineseTmsProviders.js`](https://github.com/Rc-W024/Geovisualization-Map/blob/main/js/leaflet.ChineseTmsProviders.js) was programmed.
 
-该项目通过Leaflet（`project.js`）提供中国（高德地图）和美国（谷歌地图）地图作为基础数据，可以在文件中找到这些内容。
+该项目通过Leaflet（[`proyecto.js`](https://github.com/Rc-W024/Geovisualization-Map/blob/main/js/proyecto.js)）提供中国（高德地图）和美国（谷歌地图）地图作为基础数据，可以在文件中找到这些内容。
 
 ## ICONS
 ![image](https://user-images.githubusercontent.com/97808991/150132467-dd3b66e8-1d01-40e5-b0f8-cbca5957fbb2.png)
