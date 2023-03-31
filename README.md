@@ -23,22 +23,26 @@ In order to load the map correctly, [`leaflet.ChineseTmsProviders.js`](https://g
 
 &emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150132467-dd3b66e8-1d01-40e5-b0f8-cbca5957fbb2.png)
 
-- Control the display of the informational text box<br>
-控制信息框的显示与隐藏
 
-&emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150132520-e3af2646-9a5b-4298-b9b6-ae97e4bb090c.png)
 
 - Update information on electric recharging points in València<br>
 更新有关瓦伦西亚市充电站的信息
 
+&emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150132520-e3af2646-9a5b-4298-b9b6-ae97e4bb090c.png)
+
+- Control the display of the informational text box<br>
+控制信息框的显示与隐藏
+
 &emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150132569-bdaec5ce-b718-44bc-8c9e-f86879323547.png)
+
+![UPV_Master_19-20_Aplicaciones_geoespaciales_TEMP_MOBILE_HTML_Proyecto](https://user-images.githubusercontent.com/97808991/229073652-f0edfd9d-aa68-4fc3-8a07-15ff01e5d174.PNG)
 
 - Locate China on the map<br>
 在地图中定位到中国
 
-![UPV_Master_19-20_Aplicaciones_geoespaciales_TEMP_MOBILE_HTML_Proyecto](https://user-images.githubusercontent.com/97808991/229072911-0c07d95e-db5b-42dd-8acb-d7b43e61a6a5.png)
-
 &emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150120242-7a8aa441-40a1-4da4-a9b8-1d37c41d901a.png)
+
+![UPV_Master_19-20_Aplicaciones_geoespaciales_TEMP_MOBILE_HTML_Proyecto](https://user-images.githubusercontent.com/97808991/229072911-0c07d95e-db5b-42dd-8acb-d7b43e61a6a5.png)
 
 - Measure function, the tool is allowed on the map</br>
 地图测距工具
