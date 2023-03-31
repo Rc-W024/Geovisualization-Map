@@ -8,7 +8,7 @@ Additionally, it allows us to display the coordinates of the current location an
 
 这是一个适用于移动端应用程序的简单脚本，允许用户查通过服务器获取西班牙瓦伦西亚市政厅发布的开源数据，以定位公共停车场相应区域的电动汽车充电点。此外，它允许显示用户当前位置的坐标，并测量兴趣点之间的距离。
 
-![image](https://user-images.githubusercontent.com/97808991/150118734-96433718-10f0-4946-a20c-80278c6efc40.png)
+![UPV_Master_19-20_Aplicaciones_geoespaciales_TEMP_MOBILE_HTML_Proyecto](https://user-images.githubusercontent.com/97808991/229072808-040e846e-b7ad-4aff-89af-caf18b55bb42.png)
 
 ## Maps
 The project provides maps of China (Gaode Map) and the United States (Google Map), as basic data through Leaflet, [`proyecto.js`](https://github.com/Rc-W024/Geovisualization-Map/blob/main/js/proyecto.js). You can find these files here.
@@ -35,6 +35,8 @@ In order to load the map correctly, [`leaflet.ChineseTmsProviders.js`](https://g
 
 - Locate China on the map<br>
 在地图中定位到中国
+
+![UPV_Master_19-20_Aplicaciones_geoespaciales_TEMP_MOBILE_HTML_Proyecto](https://user-images.githubusercontent.com/97808991/229072911-0c07d95e-db5b-42dd-8acb-d7b43e61a6a5.png)
 
 &emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150120242-7a8aa441-40a1-4da4-a9b8-1d37c41d901a.png)
 
