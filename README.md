@@ -26,12 +26,12 @@ In order to load the map correctly, [`leaflet.ChineseTmsProviders.js`](https://g
 
 
 - Update information on electric recharging points in València<br>
-更新有关瓦伦西亚市充电站的信息
+爬取并更新有关瓦伦西亚充电站的信息
 
 &emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150132520-e3af2646-9a5b-4298-b9b6-ae97e4bb090c.png)
 
 - Control the display of the informational text box<br>
-控制信息框的显示与隐藏
+信息框显示/隐藏控制
 
 &emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150132569-bdaec5ce-b718-44bc-8c9e-f86879323547.png)
 
