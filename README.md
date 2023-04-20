@@ -38,7 +38,7 @@ In order to load the map correctly, [`leaflet.ChineseTmsProviders.js`](https://g
 ![UPV_Master_19-20_Aplicaciones_geoespaciales_TEMP_MOBILE_HTML_Proyecto](https://user-images.githubusercontent.com/97808991/229073652-f0edfd9d-aa68-4fc3-8a07-15ff01e5d174.PNG)
 
 - Locate China on the map<br>
-定位到中国
+定位框到中国
 
 &emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150120242-7a8aa441-40a1-4da4-a9b8-1d37c41d901a.png)
 
