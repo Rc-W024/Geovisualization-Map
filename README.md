@@ -19,7 +19,7 @@ In order to load the map correctly, [`leaflet.ChineseTmsProviders.js`](https://g
 
 ## ICONS & Functions
 - Get the user's coordinates in real time<br>
-实时获取用户坐标
+获取用户实时坐标
 
 &emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150132467-dd3b66e8-1d01-40e5-b0f8-cbca5957fbb2.png)
 
