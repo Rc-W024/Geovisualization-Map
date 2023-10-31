@@ -4,7 +4,7 @@
 **Aparcamientos de Vehículos Eléctricos en València**<br>
 This is a simple script suitable for mobile applications. It allows users to query the server for open-source data released by the Valencia City Hall in Spain to locate the point where electric vehicles are charged in the corresponding area of the public parking lot.
 
-Additionally, it allows us to display the coordinates of the current location and measure the distance between points of interest.
+Additionally, it allows users to display their current location coordinates and measure distances between points of interest.
 
 该脚本适用于网页端和移动端应用程序，允许用户查通过服务器获取西班牙瓦伦西亚市政厅发布的开源数据，以定位公共停车场相应区域的电动车充电点位。此外，它允许显示用户当前位置的坐标，并测量兴趣点之间的距离。
 
