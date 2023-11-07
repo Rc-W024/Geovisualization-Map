@@ -11,7 +11,7 @@ Additionally, it allows users to display their current location coordinates and 
 ![UPV_Master_19-20_Aplicaciones_geoespaciales_TEMP_MOBILE_HTML_Proyecto](https://user-images.githubusercontent.com/97808991/229072808-040e846e-b7ad-4aff-89af-caf18b55bb42.png)
 
 ## Maps
-The project provides maps of China (Gaode Map) and the United States (Google Map), as basic data through Leaflet, [`proyecto.js`](https://github.com/Rc-W024/Geovisualization-Map/blob/main/js/proyecto.js). You can find these files here.
+The project provides maps of China (Gaode Map) and the United States (Google Map), as basic data through Leaflet, [`proyecto.js`](https://github.com/Rc-W024/Geovisualization-Map/blob/main/js/proyecto.js).
 
 In order to load the map correctly, [`leaflet.ChineseTmsProviders.js`](https://github.com/Rc-W024/Geovisualization-Map/blob/main/js/leaflet.ChineseTmsProviders.js) was programmed.
 
