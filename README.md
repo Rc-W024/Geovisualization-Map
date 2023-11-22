@@ -6,7 +6,7 @@ This is a simple script suitable for mobile applications. It allows users to que
 
 Additionally, it allows users to display their current location coordinates and measure distances between points of interest.
 
-该脚本适用于网页端和移动端应用程序，允许用户查通过服务器获取西班牙瓦伦西亚市政厅发布的开源数据，以定位公共停车场相应区域的电动车充电点位。此外，它允许显示用户当前位置的坐标，并测量兴趣点之间的距离。
+该脚本适用于网页端和移动端应用程序，允许用户查通过服务器获取西班牙瓦伦西亚市政厅发布的开源数据，以定位公共停车场相应区域的电动车充电点位。此外，它还允许显示用户当前位置的坐标，并测量兴趣点之间的距离。
 
 ![UPV_Master_19-20_Aplicaciones_geoespaciales_TEMP_MOBILE_HTML_Proyecto](https://user-images.githubusercontent.com/97808991/229072808-040e846e-b7ad-4aff-89af-caf18b55bb42.png)
 
