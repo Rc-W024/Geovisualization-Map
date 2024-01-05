@@ -30,8 +30,8 @@ In order to load the map correctly, [`leaflet.ChineseTmsProviders.js`](https://g
 
 &emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150132520-e3af2646-9a5b-4298-b9b6-ae97e4bb090c.png)
 
-- Control the display of the informational text box<br>
-信息框显示/隐藏控制
+- Control the display of the informational text box (Garbled characters are Spanish special characters)<br>
+信息框显示/隐藏控制（乱码字符为西班牙语特殊字符）
 
 &emsp;&emsp;![image](https://user-images.githubusercontent.com/97808991/150132569-bdaec5ce-b718-44bc-8c9e-f86879323547.png)
 
