@@ -1,6 +1,8 @@
 # 充电桩点位APP定位
 [English](README.md) | 中文
 
+![](https://skillicons.dev/icons?i=html,js)
+
 ## 简介
 **Aparcamientos de Vehículos Eléctricos en València（瓦伦西亚电动车停车场）**<br>
 该脚本适用于网页端和移动端应用程序，允许用户查通过服务器获取西班牙瓦伦西亚市政厅发布的开源数据，以定位公共停车场相应区域的电动车充电点位。此外，它还允许显示用户当前位置的坐标，并测量兴趣点之间的距离。
